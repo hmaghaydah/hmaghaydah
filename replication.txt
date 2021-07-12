@@ -1,0 +1,4 @@
+Repadmin /replsummary
+Repadmin /Queue
+Repadmin /Showrepl
+Repadmin /syncall
